@@ -79,7 +79,7 @@ Based on the results, We would recommend the following:
 
 For More Information
 
-See the full analysis in the [Jupyter Notebook](https://github.com/moseskuriia/Visual-Intelligence/blob/main/Visual%20Intelligence%20.ipynb) or review this [presentation](https://github.com/moseskuriia/Visual-Intelligence/blob/main/Visual%20Intelligence%20Presentation%20.pdf).
+See the full analysis in the [Jupyter Notebook](https://github.com/moseskuriia/Visual-Intelligence/blob/main/Visual%20Intelligence.ipynb) or review this [presentation](https://github.com/moseskuriia/Visual-Intelligence/blob/main/Visual%20Intelligence%20Presentation%20.pdf).
 
 For additional info, you can contact 
 * [Moses Kuria](https://github.com/moseskuriia)
